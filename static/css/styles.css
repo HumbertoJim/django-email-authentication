@@ -1,0 +1,7 @@
+label {
+    font-weight: bold;
+}
+
+.errorlist li{
+    color: red;
+}
